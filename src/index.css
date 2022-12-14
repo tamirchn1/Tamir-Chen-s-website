@@ -91,6 +91,16 @@ nav a {
 .about-txt {
 padding: 3%;
 }
+
+.about-txt a{
+  text-decoration: none;
+  cursor: pointer;
+color: black;
+font-weight: bold;
+}
+.about-txt a:hover{
+color: #9a2639;
+}
 /*********************************************************** LISTEN *************************************/
 .spotify-playlists {
   display: flex;
@@ -103,7 +113,6 @@ padding: 3%;
 
 ul {
   font-size: 1.4rem;
-  list-style: square;
   list-style-position: inside;
   padding: 0;
 }

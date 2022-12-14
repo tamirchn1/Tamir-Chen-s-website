@@ -50,6 +50,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/bootstrap": "^5.2.6"
+    "@types/bootstrap": "^5.2.6",
+    "netlify-cli": "^12.2.11"
   }
 }
