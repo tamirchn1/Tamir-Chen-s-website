@@ -21,14 +21,14 @@ function About() {
           </a>
           <a href="https://www.facebook.com/AutarkicAutarkic">Autarkic</a> ,
           <a href="https://www.facebook.com/profile.php?id=100059272549565">
-            Chicos de nazca
+            Chicos de Nazca
           </a>{" "}
           ,<a href="https://www.facebook.com/xhaxxanx">Häxxan</a> ,
           <a href="https://www.facebook.com/hopacherrybandora">
-            Cherry bandora
+            Cherry Bandora
           </a>{" "}
           ,
-          <a href="https://www.facebook.com/THEHOUSEOFLIGHT">House of light </a>
+          <a href="https://www.facebook.com/THEHOUSEOFLIGHT">House of Light </a>
           ,
           <a href="https://avishagcrodrigues.bandcamp.com/?fbclid=IwAR26DTKDoyOoJW86IBVkc8hGDNL35oLoTbRxjMhJY3uA8mRUPwWasMH0qkY">
             Avishag cohen rodrigues
@@ -36,7 +36,7 @@ function About() {
           ,<a href="https://www.facebook.com/ok.aleklee">Alek Lee</a> ,
           <a href="https://www.facebook.com/NetaPolturak">Neta Polturak</a> ,
           <a href="https://soundcloud.com/paularambula?fbclid=IwAR1QvqSA9RpP-h2YBlbU-Eufkxs8v7Txw6mvQT5fn8FzTLRc5lkUPnleBHg">
-            Paul arambula
+            Paul Arambula
           </a>{" "}
           and more...
           <br />
@@ -46,7 +46,7 @@ function About() {
           for various projects. I've founded{" "}
           <a href="https://www.facebook.com/solariumcrew">'Solarium'</a> ,
           events and content production in Berlin, and{" "}
-          <a href="https://maakudarecords.com/"> 'Maakuda record'</a> label.
+          <a href="https://maakudarecords.com/"> 'Maakuda'</a> record label.
           I've produced other musicians in their musical quest to their album. I
           also teach Bass guitar and Ableton Live software in my place in
           Neukölln or remote via Skype.
