@@ -26,6 +26,7 @@ function About() {
           <br />
           <br /> I played/recorded with -
           <div className="collab">
+            <a href="https://www.hihowareyou.com/">Daniel Johnston</a> |{" "}
             <a href="https://www.facebook.com/redaxesmusic">Red Axes</a> |{" "}
             <a href="https://www.facebook.com/moscoman">Moscoman</a> |{" "}
             <a href="https://www.facebook.com/search/top?q=soda%20fabric">
