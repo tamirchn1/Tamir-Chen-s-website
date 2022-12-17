@@ -5,8 +5,9 @@ import {
   faInstagram,
   faSoundcloud,
   faWhatsapp,
+  faLink,
+  faTree,
 } from "@fortawesome/free-brands-svg-icons";
-import { faLink, faTree } from "@fortawesome/free-solid-svg-icons";
 function Footer() {
   return (
     <footer className="footer">
