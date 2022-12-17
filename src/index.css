@@ -102,6 +102,9 @@ font-weight: bold;
 .about-txt a:hover{
 color: #9a2639;
 }
+.collab{
+  font-weight: bold;
+}
 /*********************************************************** LISTEN *************************************/
 .spotify-playlists {
   display: flex;
@@ -220,7 +223,6 @@ font-size: 1.7rem;
   .shows-list {
     font-size: 1rem;
   }
-
 
   .show{
     border: 0;

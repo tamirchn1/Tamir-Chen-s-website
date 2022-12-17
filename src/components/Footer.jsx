@@ -6,6 +6,7 @@ import {
   faSoundcloud,
   faWhatsapp,
 } from "@fortawesome/free-brands-svg-icons";
+import { faLink, faTree } from "@fortawesome/free-solid-svg-icons";
 function Footer() {
   return (
     <footer className="footer">
@@ -36,9 +37,19 @@ function Footer() {
         </a>
         <a
           className="btn social-link"
+          target="_blank"
+          rel="noreferrer"
           href="whatsapp://send?text=Hello World!&phone=+4917656939369"
         >
           <FontAwesomeIcon icon={faWhatsapp} />
+        </a>
+        <a
+          className="btn social-link"
+          target="_blank"
+          rel="noreferrer"
+          href="https://linktr.ee/tamirchen?fbclid=IwAR0UKNLdb-hY92IZJC0bdfZ-zFew-qKY55lU0vKC7I1I9Wh01Tb_0m-bPNc"
+        >
+          <FontAwesomeIcon icon={faLink} />
         </a>
       </div>
     </footer>
