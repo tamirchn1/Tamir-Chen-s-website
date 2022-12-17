@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
 import React from "react";
-import Footer from "./Footer";
 function Gigs() {
   return (
     <>
@@ -17,7 +16,7 @@ function Gigs() {
       <div className="vid">
         <iframe
           width="560"
-          height="315"
+          height="314"
           src="https://www.youtube.com/embed/w5QWEm7xzNY"
           title="YouTube video player"
           frameborder="0"
@@ -27,7 +26,7 @@ function Gigs() {
 
         <iframe
           width="560"
-          height="315"
+          height="314"
           src="https://www.youtube.com/embed/9S98eiymxo0"
           title="YouTube video player"
           frameborder="0"
@@ -46,7 +45,7 @@ function Gigs() {
 
         <iframe
           width="560"
-          height="315"
+          height="314"
           src="https://www.youtube.com/embed/4rc6cUH__ss"
           title="YouTube video player"
           frameborder="0"
@@ -54,10 +53,9 @@ function Gigs() {
           allowFullScreen
         ></iframe>
         <iframe
-          src="https://www.facebook.com/plugins/video.php?height=316&href=https%3A%2F%2Fwww.facebook.com%2Fmoscoman%2Fvideos%2F1401767016543791%2F&show_text=false&width=560&t=0"
+          src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmoscoman%2Fvideos%2F1401767016543791%2F&show_text=false&width=560&t=0"
           width="560"
           height="316"
-          scrolling="no"
           frameborder="0"
           allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share full-screen"
           allowfullscreen
@@ -66,7 +64,6 @@ function Gigs() {
           src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fhopacherrybandora%2Fvideos%2F780114902680084%2F&show_text=false&width=560&t=0"
           width="560"
           height="314"
-          scrolling="no"
           frameborder="0"
           allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
           allowFullScreen
@@ -76,17 +73,15 @@ function Gigs() {
           src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FMORIAHPLAZA%2Fvideos%2F802712980124156%2F&show_text=false&width=560&t=0"
           width="560"
           height="314"
-          scrolling="no"
           frameborder="0"
           allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
           allowFullScreen
         ></iframe>
 
         <iframe
-          src="https://www.facebook.com/plugins/video.php?height=308&href=https%3A%2F%2Fwww.facebook.com%2FMORIAHPLAZA%2Fvideos%2F254813201938554%2F&show_text=false&width=560&t=0"
+          src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2FMORIAHPLAZA%2Fvideos%2F254813201938554%2F&show_text=false&width=560&t=0"
           width="560"
-          height="308"
-          scrolling="no"
+          height="314"
           frameborder="0"
           allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
           allowFullScreen
@@ -96,7 +91,6 @@ function Gigs() {
           src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmoscoman%2Fvideos%2F1351139411606552%2F&show_text=false&width=560&t=0"
           width="560"
           height="314"
-          scrolling="no"
           frameborder="0"
           allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
           allowFullScreen
@@ -104,14 +98,13 @@ function Gigs() {
 
         <iframe
           src="https://player.vimeo.com/video/284778909?h=1fcf2a9c74"
-          width="640"
-          height="360"
+          width="560"
+          height="314"
           frameborder="0"
-          allow="autoplay; fullscreen; picture-in-picture"
+          allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
           allowFullScreen
         ></iframe>
       </div>
-      <Footer />
     </>
   );
 }

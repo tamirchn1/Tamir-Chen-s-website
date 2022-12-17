@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import Vids from "./components/Vids";
 import Gigs from "./components/Gigs";
 import Listen from "./components/Listen";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <Route exact path="/Vids" component={Vids} />
         <Route exact path="/Gigs" component={Gigs} />
       </Switch>
+      <Footer />
     </Router>
   );
 }

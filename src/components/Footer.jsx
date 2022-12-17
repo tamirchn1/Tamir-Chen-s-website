@@ -8,7 +8,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 function Footer() {
   return (
-    <div>
+    <footer className="footer">
       <div className="social-logos text-center">
         <a
           className="btn  social-link"
@@ -41,7 +41,7 @@ function Footer() {
           <FontAwesomeIcon icon={faWhatsapp} />
         </a>
       </div>
-    </div>
+    </footer>
   );
 }
 

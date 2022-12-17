@@ -28,7 +28,7 @@ function Navbar() {
 
             <li class="nav-item dropdown">
               <a
-                class="nav-link dropdown-toggle"
+                class="nav-link dropdown-toggle btn"
                 href="/music"
                 id="navbarDropdownMenuLink"
                 data-bs-toggle="dropdown"

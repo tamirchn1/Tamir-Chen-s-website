@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from "./Footer";
 function Listen() {
   return (
     <div>
@@ -45,7 +44,6 @@ function Listen() {
           loading="lazy"
         ></iframe>
       </div>
-      <Footer />
     </div>
   );
 }

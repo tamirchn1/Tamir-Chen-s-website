@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from "./Footer";
 
 function Home() {
   return (
@@ -15,7 +14,6 @@ function Home() {
         className="home-img"
         src={require("../images/home.jpg")}
       />
-      <Footer />
     </div>
   );
 }

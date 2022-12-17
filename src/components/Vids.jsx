@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from "./Footer";
 function Vids() {
   return (
     <>
@@ -53,7 +52,6 @@ function Vids() {
           allowFullScreen
         ></iframe>
       </div>
-      <Footer />
     </>
   );
 }

@@ -1,5 +1,4 @@
 import React from "react";
-import Footer from "./Footer";
 
 function About() {
   return (
@@ -31,7 +30,7 @@ function About() {
           <a href="https://www.facebook.com/THEHOUSEOFLIGHT">House of Light </a>
           ,
           <a href="https://avishagcrodrigues.bandcamp.com/?fbclid=IwAR26DTKDoyOoJW86IBVkc8hGDNL35oLoTbRxjMhJY3uA8mRUPwWasMH0qkY">
-            Avishag cohen rodrigues
+            Avishag Cohen Rodrigues
           </a>{" "}
           ,<a href="https://www.facebook.com/ok.aleklee">Alek Lee</a> ,
           <a href="https://www.facebook.com/NetaPolturak">Neta Polturak</a> ,
@@ -42,17 +41,16 @@ function About() {
           <br />
           <br />
           In the past years, alongside touring across Europe, I wrote music for
-          theater, art exhibition and a video game, as well produced dubbing art
+          theater, art exhibition and a video game. I've produced dubbing art
           for various projects. I've founded{" "}
-          <a href="https://www.facebook.com/solariumcrew">'Solarium'</a> ,
-          events and content production in Berlin, and{" "}
-          <a href="https://maakudarecords.com/"> 'Maakuda'</a> record label.
+          <a href="https://www.facebook.com/solariumcrew">'Solarium'</a> - a
+          studio and an events and content production company in Berlin, and{" "}
+          <a href="https://maakudarecords.com/"> 'Maakuda'</a> - a record label.
           I've produced other musicians in their musical quest to their album. I
           also teach Bass guitar and Ableton Live software in my place in
           Neukölln or remote via Skype.
         </p>
       </div>
-      <Footer />
     </div>
   );
 }

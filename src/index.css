@@ -31,9 +31,6 @@ nav a:hover {
   font-weight: bold;
 }
 
-nav a {
- 
-}
 
 .dropdown-item {
   width: max-content;
@@ -41,6 +38,10 @@ nav a {
 
 .dropdown-menu {
   border: 0;
+}
+
+footer{
+  margin-top: 2%;
 }
 /*********************************************************** HOME *************************************/
 
@@ -138,6 +139,9 @@ iframe:hover {
   opacity: 0.9;
 }
 
+iframe + i{
+  border-radius: 10px;
+}
 /*********************************************************** FOOTER *************************************/
 
 .social-link:hover {
@@ -189,6 +193,10 @@ font-size: 1.7rem;
 }
 
 @media only screen and (min-width: 500px) {
+  iframe{
+    width: 80%;
+  }
+  
   .about-img {
     width: 40%;
   }
@@ -212,15 +220,16 @@ font-size: 1.7rem;
   .shows-list {
     font-size: 1rem;
   }
-  .show {
-    padding: 0 1%;
+
+
+  .show{
+    border: 0;
   }
-  
 }
 @media only screen and (min-width: 800px) {
   .spans {
     margin: 4% 0 4% 5%;
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     text-align: unset;
   }
 
@@ -257,12 +266,12 @@ font-size: 1.7rem;
 }
 @media only screen and (min-width: 1400px) {
   .spans {
-    margin: 3% 0 4% 5%;
-    font-size: 1.8rem;
+    margin: 2% 0 4% 7%;
+    font-size: 1.9rem;
   }
 
   .home-img{
-    width: 50%;
+    width: 65%;
   }
 
   .home-2 {
