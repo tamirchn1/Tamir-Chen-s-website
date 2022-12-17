@@ -11,8 +11,20 @@ function About() {
           src={require("../images/me.jpg")}
         />
         <p className="about-txt">
-          I am Tamir, I play on various instruments but mostly bass guitar. I
-          played/recorded with - <br />
+          I am Tamir, I play on various instruments but mostly bass guitar.
+          <br />
+          In the past years, alongside touring across Europe, I wrote music for
+          theater, art exhibition and a video game. I've produced dubbing art
+          for various projects. <br />
+          I've founded{" "}
+          <a href="https://www.facebook.com/solariumcrew">'Solarium'</a> - a
+          recording studio and an events & content production company in Berlin,
+          and <a href="https://maakudarecords.com/"> 'Maakuda'</a> - a record
+          label. I've produced other musicians in their musical quest to their
+          album. I also teach Bass guitar and Ableton Live software in my place
+          in Neukölln or remote via Skype.
+          <br />
+          <br /> I played/recorded with -
           <div className="collab">
             <a href="https://www.facebook.com/redaxesmusic">Red Axes</a> |{" "}
             <a href="https://www.facebook.com/moscoman">Moscoman</a> |{" "}
@@ -44,16 +56,6 @@ function About() {
           </div>
           and more...
           <br />
-          <br />
-          In the past years, alongside touring across Europe, I wrote music for
-          theater, art exhibition and a video game. I've produced dubbing art
-          for various projects. I've founded{" "}
-          <a href="https://www.facebook.com/solariumcrew">'Solarium'</a> - a
-          studio and an events and content production company in Berlin, and{" "}
-          <a href="https://maakudarecords.com/"> 'Maakuda'</a> - a record label.
-          I've produced other musicians in their musical quest to their album. I
-          also teach Bass guitar and Ableton Live software in my place in
-          Neukölln or remote via Skype.
         </p>
       </div>
     </div>
