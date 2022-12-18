@@ -201,11 +201,11 @@ font-size: 1.7rem;
   }
   
   .about-img {
-    width: 40%;
+    width: 35%;
   }
 
   .about-txt {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     line-height: 1.5em;
     margin: 2%;
     padding: 1%;
@@ -261,7 +261,7 @@ font-size: 1.7rem;
   .about-txt {
     padding: 1% 4%;
     line-height: 2;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     margin: 0;
     padding: 0 3%;
   }
@@ -289,7 +289,7 @@ font-size: 1.7rem;
   }
   .about-txt {
     padding: 1% 5%;
-    line-height: 2.7;
+    line-height: 2;
     font-size: 1.3rem;
   }
   .shows-list {

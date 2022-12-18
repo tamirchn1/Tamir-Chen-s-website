@@ -53,7 +53,7 @@ function About() {
             <a href="https://www.facebook.com/NetaPolturak">Neta Polturak</a> |{" "}
             <a href="https://soundcloud.com/paularambula?fbclid=IwAR1QvqSA9RpP-h2YBlbU-Eufkxs8v7Txw6mvQT5fn8FzTLRc5lkUPnleBHg">
               Paul Arambula
-            </a>{" "}
+            </a>
           </div>
           and more...
           <br />
