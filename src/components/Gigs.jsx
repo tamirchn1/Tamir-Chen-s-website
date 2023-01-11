@@ -6,12 +6,7 @@ function Gigs() {
       {" "}
       <h1>Live Shows</h1>
       <div className="">
-        <ul className="shows-list">
-          <h2>upcoming Shows:</h2>
-          <li className="show">
-            12.02.2023 Cherry Bandora @ Supamolly, Berlin, 🇩🇪
-          </li>
-        </ul>
+        <ul className="shows-list">{/* <h2>upcoming Shows:</h2> */}</ul>
       </div>
       <div className="vid">
         <iframe
