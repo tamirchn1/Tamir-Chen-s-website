@@ -37,7 +37,8 @@ function About() {
             <a href="https://www.facebook.com/profile.php?id=100059272549565">
               Chicos de Nazca
             </a>{" "}
-            | <a href="https://www.facebook.com/xhaxxanx">Häxxan</a> |{" "}
+            <a href="https://www.facebook.com/khidja.official">Khidja</a> |{" "}
+            <a href="https://www.facebook.com/xhaxxanx">Häxxan</a> |{" "}
             <a href="https://www.facebook.com/hopacherrybandora">
               Cherry Bandora
             </a>{" "}
