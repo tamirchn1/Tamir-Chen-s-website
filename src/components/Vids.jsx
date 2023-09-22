@@ -8,6 +8,24 @@ function Vids() {
         <iframe
           width="560"
           height="315"
+          src="https://www.youtube.com/embed/punY3yspg4o?si=ODS27y5lQz93_Fc9"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/KoOo5F0ffZ8?si=oWt0XkG6cXs4K4lc"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
+        <iframe
+          width="560"
+          height="315"
           src="https://www.youtube.com/embed/D3WWg__NaZ0"
           title="YouTube video player"
           frameborder="0"
@@ -32,6 +50,15 @@ function Vids() {
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
+        ></iframe>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/cjSrmra_pJA?si=-4GtUwutTULXC7Z6"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
         ></iframe>
         <iframe
           width="560"
